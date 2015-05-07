@@ -1,0 +1,3 @@
+Esto es una prueba de merge, para resolver conflictos 
+con alguna herramienta grafica como meld.
+Gracias por todo, aguante git y el Torval...
