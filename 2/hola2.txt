@@ -1,3 +1,6 @@
+Esto es una prueba de merge, para resolver conflictos 
+con alguna herramienta grafica como meld.
+Gracias por todo, aguante git y el Torval...
 
 Esto va a meter tremendo conflicto,
 La idea es resolverlo usando meld...
