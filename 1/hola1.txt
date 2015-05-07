@@ -1,3 +1,4 @@
 Seguimos generando conflictos, ahora locales
-Luego modificaremos desde la Web, y trataremos de 
-hacer el merge con meld... Va a salir...
+Esta linea se va a actualizar, con esto mismo..
+
+Luego va a quedar todo igual...
