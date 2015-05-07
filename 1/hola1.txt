@@ -1,4 +1,9 @@
 Seguimos generando conflictos, ahora locales
+
+- aparece esta linea..
+
 Esta linea se va a actualizar, con esto mismo..
+
+- aprece esta otra linea..
 
 Luego va a quedar todo igual...
