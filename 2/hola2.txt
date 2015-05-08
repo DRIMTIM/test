@@ -1,6 +1,6 @@
 Esto es una prueba de merge, para resolver conflictos 
-con alguna herramienta grafica como meld.
-Gracias por todo, aguante git y el Torval...
+con alguna herramienta grafica como meld. (OK!)
+Gracias por todo, aguante git y el Torval...(Esta linea la puse desde la web, tiene que estar...)
 
 Esto va a meter tremendo conflicto, (Queremos mergear esta linea...)
 Y luego sustituimos todo lo que estaba abajo...
